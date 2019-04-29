@@ -1,6 +1,12 @@
-{
-	"j":"son",
-	"test":"test",
-	"value":2,
-	"yee":"haw"
+{"enemies":
+	[{
+		"name":"behemon",
+		"power":10,
+		"helth":4,
+	},
+	{
+		"name":"oloomon",
+		"power":100,
+		"health":100
+	}]
 }
