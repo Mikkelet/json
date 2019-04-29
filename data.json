@@ -9,5 +9,6 @@
 		"name":"oloomon",
 		"power":100,
 		"health":100
-	}]
+	}],
+	"test":5
 }
